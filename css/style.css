@@ -84,9 +84,14 @@ a {
     font-size: 2.5rem;
     font-weight: 600;
     margin-bottom: 10px;
+    color: #59ab6e;
+
 }
 
 #hero-one{
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-bottom: 10px;
     color: #59ab6e;
 }
 
@@ -350,6 +355,7 @@ a {
     }
 
 }
+
 
 @media screen and (min-width:992px) {
 
